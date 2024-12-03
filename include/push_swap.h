@@ -65,7 +65,7 @@ t_data	ft_stack_init(t_data stack, char **args);
 void	ft_print_stack(t_stack *stack, bool print_last);
 void	ft_print_both_stack(t_stack *a, t_stack *b, bool print_last);
 
-// stack_operations
+// operations
 void	swap(t_stack **stack);
 void	sa(t_stack **a);
 void	sb(t_stack **b);
